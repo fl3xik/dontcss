@@ -601,3 +601,72 @@ a:hover {
 .dc-margin-bottom-200px {
   margin-bottom: 200px;
 }
+
+/*flex update*/
+
+.dc-flex-center {
+  justify-content: center;
+}
+.dc-flex-space-around {
+  justify-content: space-around;
+}
+.dc-flex-space-beetween {
+  justify-content: space-between;
+}
+.dc-flex-flexend {
+  justify-content: flex-end;
+}
+.dc-flex-flexstart {
+  justify-content: flex-start;
+}
+.dc-flex-direction-column {
+  flex-direction: column;
+}
+.dc-flex-direction-reverse-column {
+  flex-direction: column-reverse;
+}
+.dc-flex-direction-row {
+  flex-direction: row;
+}
+.dc-flex-direction-reverse-row {
+  flex-direction: row-reverse;
+}
+.dc-flex-flow-column {
+  flex-flow: column;
+}
+.dc-flex-flow-reverse-column {
+  flex-flow: column-reverse;
+}
+.dc-flex-flow-nowrap {
+  flex-flow: nowrap;
+}
+.dc-flex-flow-reverse-row {
+  flex-flow: row;
+}
+.dc-flex-flow-row {
+  flex-flow: row-reverse;
+}
+.dc-flex-flow-wrap {
+  flex-flow: wrap;
+}
+.dc-flex-flow-reverse-wrap {
+  flex-flow: wrap-reverse;
+}
+.dc-flex-grow-unset {
+  flex-grow: unset;
+}
+.dc-flex-wrap-no {
+  flex-wrap: nowrap;
+}
+.dc-flex-wrap {
+  flex-wrap: wrap;
+}
+.dc-flex-wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+.dc-flex {
+  display: flex;
+}
+.dc-flex-basis-auto {
+  flex-basis: auto;
+}
