@@ -670,3 +670,15 @@ a:hover {
 .dc-flex-basis-auto {
   flex-basis: auto;
 }
+.dc-flex-align-items-center {
+  align-items: center;
+}
+.dc-flex-align-items-baseline {
+  align-items: baseline;
+}
+.dc-flex-align-items-flexstart {
+  align-items: flex-start;
+}
+.dc-flex-align-items-flexend {
+  align-items: flex-end;
+}
