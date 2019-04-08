@@ -223,3 +223,71 @@ a:hover {
 .dc-height-100vh {
   height: 100vh
 }
+
+.dc-color-blue {
+  color: #605df7;
+}
+.dc-color-red {
+  color: #f7645d;
+}
+.dc-color-black {
+  color: #0c0c0c;
+}
+.dc-color-white {
+  color: #fff;
+}
+.dc-color-purple {
+  color: purple;
+}
+.dc-color-pink {
+  color: pink;
+}
+.dc-color-green {
+  color: #28b712;
+}
+.dc-color-yellow {
+  color: yellow;
+}
+.dc-color-orange {
+  color: #ffb53f;
+}
+.dc-color-melon {
+  color: #9fff68;
+}
+.dc-color-acid {
+  color: #16ff16;
+}
+
+.dc-background-blue {
+  background: #605df7;
+}
+.dc-background-red {
+  background: #f7645d;
+}
+.dc-background-black {
+  background: #0c0c0c;
+}
+.dc-background-white {
+  background: #fff;
+}
+.dc-background-purple {
+  background: purple;
+}
+.dc-background-pink {
+  background: pink;
+}
+.dc-background-green {
+  background: #28b712;
+}
+.dc-background-yellow {
+  background: yellow;
+}
+.dc-background-orange {
+  background: #ffb53f;
+}
+.dc-background-melon {
+  background: #9fff68;
+}
+.dc-background-acid {
+  background: #16ff16;
+}
