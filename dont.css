@@ -699,3 +699,42 @@ a:hover {
 .dc-text-decoration-line-through {
   text-decoration: line-through;
 }
+.dc-font-weight-bold {
+  font-weight: bold;
+}
+.dc-font-weight-lighter{
+  font-weight: lighter;
+}
+.dc-font-weight-100 {
+  font-weight: 100;
+}
+.dc-font-weight-200 {
+  font-weight: 200;
+}
+.dc-font-weight-300 {
+  font-weight: 300;
+}
+.dc-font-weight-400 {
+  font-weight: 400;
+}
+.dc-font-weight-500 {
+  font-weight: 500;
+}
+.dc-font-weight-600 {
+  font-weight: 600;
+}
+.dc-font-weight-700 {
+  font-weight: 700;
+}
+.dc-font-weight-800 {
+  font-weight: 800;
+}
+.dc-font-weight-900 {
+  font-weight: 900;
+}
+.dc-font-weight-normal {
+  font-weight: normal;
+}
+.dc-font-weight-bolder {
+  font-weight: bolder;
+}
