@@ -682,3 +682,20 @@ a:hover {
 .dc-flex-align-items-flexend {
   align-items: flex-end;
 }
+/* 10.04.2019 */
+
+.dc-text-decoration-none {
+  text-decoration: none;
+}
+.dc-text-decoration-overline {
+  text-decoration: overline;
+}
+.dc-text-decoration-underline {
+  text-decoration: underline;
+}
+.dc-text-decoration-inherit {
+  text-decoration: inherit;
+}
+.dc-text-decoration-line-through {
+  text-decoration: line-through;
+}
